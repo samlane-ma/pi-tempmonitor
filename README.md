@@ -1,8 +1,8 @@
-## pi-temp-monitor
+# pi-temp-monitor
 
-# CPU Temperature applet for Ubuntu Budgie on Raspberry Pi
+## CPU Temperature applet for Ubuntu Budgie on Raspberry Pi
 
-# This is a Vala based rewrite of python Budgie Pi Temperature Monitor
+## This is a Vala based rewrite of python Budgie Pi Temperature Monitor
 
 Adds an applet to monitor the CPU temperature.
 Temperature can be displayed in Celcius or Fahrenheit.
