@@ -1,0 +1,8 @@
+[Plugin]
+Module=pi-tempmonitor.so
+Name=Pi Temp Monitor
+Description=Monitor the Raspberry Pi Temperature
+Authors=Sam Lane
+Copyright=2020 Sam Lane
+Website=https://github.com/samlane-ma/
+Icon=sensors-temperature-symbolic
